@@ -1,4 +1,4 @@
-# Resturant-management-system
+# Restaurant-management-system
 Python GUI for Resturant Management 
 
 Well, I am a foodie....
